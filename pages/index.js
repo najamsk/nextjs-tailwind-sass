@@ -11,7 +11,7 @@ export default function Home() {
       <div className="mx-auto lg:w-3/5 lg:flex lg:flex-row lg:h-auto">
         <img src="/images/drawers.jpg" alt="drawers" className="rounded-tr-md rounded-tl-md h-48 w-full lg:h-auto lg:w-2/5 lg:rounded-bl-md lg:rounded-tr-none" />
         <div className="bg-white p-8 rounded-bl-md rounded-br-md lg:rounded-bl-none lg:rounded-tr-md">
-          <h2 className="text-gray-700 font-semibold">How to get started with next.js</h2>
+          <h2 className="text-gray-700 font-semibold">How to get started with next.js?</h2>
           <p className="text-sm text-gray-600 mt-4">
             hello this campaign is calling for muslim ummat to take notice of how little children are suffering they need food, meds and proper care.
           </p>
